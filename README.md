@@ -1,3 +1,3 @@
 Hi everyone 
 
-👀 <a href="https://hasan-naser.com">hasan-naser.com</a>
+👀 <a href="https://github.com/fayaz-ui/">fayaz-ui</a>
